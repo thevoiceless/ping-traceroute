@@ -1,0 +1,8 @@
+Hop 1:	192.168.1.1
+Hop 2:	c-24-8-208-1.hsd1.co.comcast.net (24.8.208.1)
+Hop 3:	te-5-1-ur01.wheatridge.co.denver.comcast.net (68.85.221.205)
+Hop 4:	te-0-10-0-8-ar02.denver.co.denver.comcast.net (68.86.128.113)
+Hop 5:	pos-0-1-0-0-ar02.aurora.co.denver.comcast.net (68.86.128.242)
+Hop 6:	he-3-4-0-0-cr01.denver.co.ibone.comcast.net (68.86.90.149)
+Hop 7:	xe-4-0-0-0-pe01.910fifteenth.co.ibone.comcast.net (68.86.82.178)
+Destination "www.reddit.com" reached: a23-3-68-195.deploy.akamaitechnologies.com (23.3.68.195)
