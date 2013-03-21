@@ -1,4 +1,4 @@
-Ping-Traceroute - Riley Moses
+Ping-Traceroute
 ============
 
 Files
