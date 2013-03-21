@@ -8,4 +8,4 @@ Files
 
 Behavior
 ----------
-Both ping.py and tracert.sh are written to fail as fast as possible. Both will inform the user of incorrect arguments and/or usage, including any error messages from running the ping command. When running tracert.sh, it looks for ping.py in two locations: The directory in which tracert.sh is saved, and the directory from which it is being called. This wasn't a requirement for the project, just something I wanted to try. If a host does not respond 5 times in a row, tracert.sh will inform the user and then exit.
+Both ping.py and tracert.sh are written to fail as fast as possible. Both will inform the user of incorrect arguments and/or usage, including any error messages from running the ping command. When running tracert.sh, it looks for ping.py in two locations: The directory in which tracert.sh is saved, and the directory from which it is being called. If a host does not respond 5 times in a row, tracert.sh will inform the user and then exit.
